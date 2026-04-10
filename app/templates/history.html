@@ -1,0 +1,7 @@
+<h2>Your Past Results</h2>
+
+<ul>
+{% for d in data %}
+    <li>{{ d.role }} - ₹{{ d.salary }} - {{ d.cluster }}</li>
+{% endfor %}
+</ul>
