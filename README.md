@@ -67,7 +67,8 @@ python manage.py runserver
 ![Home](screenshots/home.png)
 
 ### 🎯 Result Page
-![Result](screenshots/result.png)
+![Result](screenshots/result-1.png)
+![Result](screenshots/result-2.png)
 
 ---
 
